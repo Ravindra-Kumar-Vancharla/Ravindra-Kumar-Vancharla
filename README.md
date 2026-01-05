@@ -192,8 +192,11 @@ Developed an AI-powered chatbot enabling natural-language, context-aware documen
 ---
 
 ## 🎓 Education & Certifications
+### **AI & Machine Learning Certification – REVA University** 🤖📘  
+[View Certificate (PDF)](https://race.reva.edu.in/wp-content/uploads/Ravindra-Kumar-V.pdf)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBT-pP5SWZrgDYnsbAtiukQM1CLxCXMg2KA&s" alt="REVA University Logo" width="120"/>
 * B.Tech – Computer Science & Engineering | Jawaharlal Nehru Technological University  
-* AI & Machine Learning Certification – REVA University  
 * AZ-104: Azure Administrator Associate  
 * AZ-305: Designing Microsoft Azure Infrastructure Solutions  
 * Red Hat Certified Engineer (RHCE)  
@@ -201,12 +204,7 @@ Developed an AI-powered chatbot enabling natural-language, context-aware documen
 
 ---
 
-## 📌 GitHub Best Practices
-* Pin **high-impact, production-grade projects**  
-* Each repo: Clear README, Tech Stack, Problem → Solution → Impact  
-* Avoid low-value forks or abandoned demos  
 
----
 
 ## 📊 GitHub Stats
 ![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra-Kumar-Vancharla&show_icons=true&count_private=true)
