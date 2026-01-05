@@ -42,33 +42,34 @@ Builds reliable, scalable systems end-to-end, combining strong engineering funda
 
 ## 🤖 Generative AI & Agentic AI
 
-### LLM Platforms & APIs
-* OpenAI API · Azure OpenAI API · Microsoft Foundry Agents  
+### 🧠 LLM Platforms & APIs
+- OpenAI API · Azure OpenAI API · Microsoft Foundry Agents  
 
-### Agentic AI Systems
-* Multi-agent design, Planner–Analyst–Fixer loops  
-* Memory-aware, context-persistent, tool-using agents  
+### 🤝 Agentic AI Systems
+- Multi-agent design, Planner–Analyst–Fixer loops 🔄  
+- Memory-aware, context-persistent, tool-using agents 🧩  
 
-### Open-Source Frameworks
-* LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex  
+### 🧪 Open-Source Frameworks
+- LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex  
 
-### Use Cases
-* ChatOps for DevOps & Platform Ops  
-* AI-assisted remediation & self-healing  
-* NLP-based policy & governance queries  
-* AI-driven scaffolding & templates  
+### 🚀 Use Cases
+- ChatOps for DevOps & Platform Ops 💬⚙️  
+- AI-assisted remediation & self-healing 🤖🛠️  
+- NLP-based policy & governance queries 📜  
+- AI-driven scaffolding & templates 🏗️  
 
-### Prompt Engineering
-* Structured prompts · Chain-of-thought patterns · Tool-calling  
-* Prompt versioning & evaluation
+### 🧩 Prompt Engineering
+- Structured prompts · Chain-of-thought patterns · Tool-calling ✍️  
+- Prompt versioning & evaluation 📈  
 
 ---
 
 ## 💻 Programming & OS
-* Python (automation, tooling, Streamlit dashboards)  
-* Bash / Shell scripting  
-* Linux: RHEL · CentOS · Ubuntu  
-  * Kickstart installs, patching, advanced configuration, networking  
+
+- Python (automation, tooling, Streamlit dashboards) 🐍  
+- Bash / Shell scripting 🖥️  
+- Linux: RHEL · CentOS · Ubuntu 🐧  
+- Kickstart installs, patching, advanced configuration, networking ⚙️  
 
 ---
 
