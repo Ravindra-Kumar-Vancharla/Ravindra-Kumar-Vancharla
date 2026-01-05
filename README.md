@@ -81,6 +81,30 @@ Builds reliable, scalable systems end-to-end, combining strong engineering funda
 | SME – Linux & Infrastructure | IBM India | 2011–2015 | Large-scale Linux environments (100+ servers), Kickstart installs, patching, DR, RCA |
 
 ---
+## 💼 Professional Experience
+
+### **Lead II – Software Engineering (AIOps)** 🚀  
+**Kyndryl** | *Jun 2022 – Present*  
+- Architected and delivered AI-driven self-healing infrastructure for Azure enterprise environments 🤖☁️  
+- Owned end-to-end automation across detection, remediation, compliance, and Linux lifecycle ⚙️  
+- Built scalable automation frameworks integrating observability, governance, and auto-remediation 📊🔄  
+
+---
+
+### **Production Support Analyst – Linux Administration** 🛠️  
+**Cognizant Technology Solutions** | *2015 – 2021*  
+- Supported enterprise Linux production systems and middleware with high availability requirements 🐧  
+- Executed Azure hosting, deployments, and cloud migration activities ☁️🚚  
+- Administered monitoring platforms and improved operations through automation and scripting 📈  
+
+---
+
+### **Subject Matter Expert – Linux & Infrastructure** 🧠  
+**IBM India** | *2011 – 2015*  
+- Owned large-scale Linux environments (100+ servers) for enterprise customers 🖥️  
+- Led incident response and problem management for business-critical systems 🚨  
+- Delivered infrastructure optimization and RCA across physical, virtual, and cloud setups 🔍  
+
 
 ## ⚡ Key Projects
 
