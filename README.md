@@ -192,23 +192,36 @@ Developed an AI-powered chatbot enabling natural-language, context-aware documen
 ---
 
 ## 🎓 Education & Certifications
+
+
 ### **AI & Machine Learning Certification – REVA University** 🤖📘  
 [View Certificate (PDF)](https://race.reva.edu.in/wp-content/uploads/Ravindra-Kumar-V.pdf)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBT-pP5SWZrgDYnsbAtiukQM1CLxCXMg2KA&s" alt="REVA University Logo" width="120"/>
----
-### B.Tech – Computer Science & Engineering | Jawaharlal Nehru Technological University  
----
-### AZ-104: Azure Administrator Associate  
----
-### AZ-305: Designing Microsoft Azure Infrastructure Solutions  
----
-### Red Hat Certified Engineer (RHCE)  
----
-### Red Hat Certified Specialist: Cluster Storage Management (RH436), Directory Services & Authentication (RH423)  
 
 ---
 
+### **B.Tech – Computer Science & Engineering** 🎓  
+**Jawaharlal Nehru Technological University**
+
+---
+
+### **AZ-104: Azure Administrator Associate** ☁️⚙️  
+
+---
+
+### **AZ-305: Designing Microsoft Azure Infrastructure Solutions** 🏗️☁️  
+
+---
+
+### **Red Hat Certified Engineer (RHCE)** 🐧🔧  
+
+---
+
+### **Red Hat Certified Specialist** 🛡️  
+- Cluster Storage Management (RH436)  
+- Directory Services & Authentication (RH423)  
+---
 
 
 ## 📊 GitHub Stats
