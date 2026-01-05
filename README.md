@@ -111,6 +111,7 @@ Builds reliable, scalable systems end-to-end, combining strong engineering funda
 ## ⚡ Key Projects
 
 ### **AI-Driven Self-Healing Cloud Platform (AIOps)** 🤖☁️  
+🔗 [GitHub Repository](https://github.com/Ravindra-Kumar-Vancharla/AI-Driven-Self-Healing-Cloud-Platform-AIOps-)  
 **Role:** Lead Engineer  
 **Tech:** Azure · Python · Terraform · Ansible · Prometheus · Grafana  
 
@@ -126,6 +127,7 @@ Designed and built an AI-driven self-healing platform with proactive detection, 
 ---
 
 ### **Azure Maintenance Configuration Agent** 🧠⚙️  
+🔗 [GitHub Repository](https://github.com/Ravindra-Kumar-Vancharla/Azure-Maintenance-Configuration-Agent)  
 **Role:** Platform Engineer  
 **Tech:** Azure AI Foundry · Python · Azure CLI · REST APIs  
 
@@ -141,6 +143,7 @@ Built an AI-driven agent to query, analyze, and explain maintenance configuratio
 ---
 
 ### **Azure Functions – Maintenance Configuration API** 🚀🔐  
+🔗 [GitHub Repository](https://github.com/Ravindra-Kumar-Vancharla/Azure-Functions---Maintenance-Configuration-API)  
 **Role:** Cloud Engineer  
 **Tech:** Azure Functions · Python · Managed Identity · Azure CLI · Application Insights  
 
@@ -156,6 +159,7 @@ Developed a secure, serverless REST API using Azure Functions with Managed Ident
 ---
 
 ### **RAG Model with React Frontend** 📚🤖  
+🔗 [GitHub Repository](https://github.com/Ravindra-Kumar-Vancharla/RAG-Model-with-React-Frontend)  
 **Role:** Full-Stack AI Engineer  
 **Tech:** Python · FastAPI · React 18 · FAISS · Sentence Transformers · LLaMA (llama-cpp)  
 
@@ -171,6 +175,7 @@ Built an end-to-end Retrieval-Augmented Generation (RAG) system with vector sear
 ---
 
 ### **AI-Powered Document Retrieval Chatbot** 🔍💬  
+🔗 [GitHub Repository](https://github.com/Ravindra-Kumar-Vancharla/AI-Powered-Document-Retrieval-Chatbot)  
 **Role:** AI Engineer  
 **Tech:** Python · NLP · Machine Learning · Chatbot Systems  
 
@@ -182,6 +187,7 @@ Developed an AI-powered chatbot enabling natural-language, context-aware documen
 
 **Impact:**  
 ⏱️ Reduced time spent searching for internal documentation and improved knowledge accessibility.  
+
 
 ---
 
