@@ -1,8 +1,10 @@
-# 👋 Ravindra Kumar Vancharla – Senior Software Engineer / Architect
+# 👋 Ravindra Kumar Vancharla
 
-**15+ Years in Software Engineering | Cloud, Platform & Distributed Systems | AIOps & Agentic AI**
+**Senior Software Engineer | Cloud & Platform Engineering | AIOps / Agentic AI**
 
-Architecting and delivering **production-grade, enterprise-scale systems** across cloud automation, platform engineering, and AI-driven operations. Proven ownership of **mission-critical infrastructure**, deep hands-on execution, and consistent delivery of **reliability, automation, and operational efficiency outcomes**.
+15+ years in software engineering, focused on cloud platforms, distributed systems, and intelligent automation.  
+Builds reliable, scalable systems end-to-end, combining strong engineering fundamentals with AI-driven operations.
+
 
 ---
 
