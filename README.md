@@ -105,28 +105,82 @@ Builds reliable, scalable systems end-to-end, combining strong engineering funda
 - Led incident response and problem management for business-critical systems 🚨  
 - Delivered infrastructure optimization and RCA across physical, virtual, and cloud setups 🔍  
 
+---
 
 ## ⚡ Key Projects
 
-### AI-Driven Self-Healing Cloud Platform
-**Role:** Lead Engineer | **Tech:** Azure · Python · Terraform · Ansible · Prometheus · Grafana  
-**Impact:** Automated Linux onboarding & compliance → saved 200+ hours/month
+### **AI-Driven Self-Healing Cloud Platform (AIOps)** 🤖☁️  
+**Role:** Lead Engineer  
+**Tech:** Azure · Python · Terraform · Ansible · Prometheus · Grafana  
 
-### AI-Powered Document Retrieval Chatbot
-**Role:** AI Engineer | **Tech:** Python · LangChain · Streamlit  
-**Impact:** Context-aware document retrieval → improved team knowledge accessibility
+**Problem Statement:**  
+Enterprise Azure environments suffered from recurring infrastructure incidents, manual remediation, and inconsistent Linux compliance, leading to high operational overhead.  
 
-### Azure Maintenance Configuration Agent (AI Foundry)
-**Role:** Platform Engineer | **Tech:** Azure AI · Python  
-**Impact:** VM impact analysis & maintenance visibility without portal dependency
+**Solution:**  
+Designed and built an AI-driven self-healing platform with proactive detection, automated remediation using Azure Runbooks, standardized Linux onboarding, and compliance automation.  
 
-### RAG Model Deployment with React Frontend
-**Role:** Full-Stack AI Engineer | **Tech:** React 18 · FastAPI · llama-cpp · FAISS  
-**Impact:** Local LLM inference & scalable retrieval pipeline
+**Impact:**  
+✅ Automated Linux onboarding & compliance → **saved 200+ hours/month**  
 
-### Azure Maintenance Configuration API
-**Role:** Cloud Engineer | **Tech:** Azure Functions · Managed Identity  
-**Impact:** Secure, serverless API for maintenance configuration data
+---
+
+### **Azure Maintenance Configuration Agent** 🧠⚙️  
+**Role:** Platform Engineer  
+**Tech:** Azure AI Foundry · Python · Azure CLI · REST APIs  
+
+**Problem Statement:**  
+Azure Maintenance Configurations lacked centralized visibility, forcing teams to rely on manual Azure Portal navigation to assess VM impact.  
+
+**Solution:**  
+Built an AI-driven agent to query, analyze, and explain maintenance configurations across subscriptions, including schedules, scopes, and impacted virtual machines.  
+
+**Impact:**  
+📉 Improved operational visibility and reduced manual effort in maintenance impact analysis.  
+
+---
+
+### **Azure Functions – Maintenance Configuration API** 🚀🔐  
+**Role:** Cloud Engineer  
+**Tech:** Azure Functions · Python · Managed Identity · Azure CLI · Application Insights  
+
+**Problem Statement:**  
+Access to Azure Maintenance Configuration data was fragmented and not automation-friendly for platform and operations teams.  
+
+**Solution:**  
+Developed a secure, serverless REST API using Azure Functions with Managed Identity, query-based filtering, and built-in observability.  
+
+**Impact:**  
+📊 Simplified and standardized access to maintenance data through scalable, cost-efficient APIs.  
+
+---
+
+### **RAG Model with React Frontend** 📚🤖  
+**Role:** Full-Stack AI Engineer  
+**Tech:** Python · FastAPI · React 18 · FAISS · Sentence Transformers · LLaMA (llama-cpp)  
+
+**Problem Statement:**  
+Traditional chatbots produced generic answers without grounding responses in enterprise documents.  
+
+**Solution:**  
+Built an end-to-end Retrieval-Augmented Generation (RAG) system with vector search, document uploads, controlled query modes, and a modern React UI.  
+
+**Impact:**  
+🎯 Enabled accurate, document-grounded AI responses with improved usability and response relevance.  
+
+---
+
+### **AI-Powered Document Retrieval Chatbot** 🔍💬  
+**Role:** AI Engineer  
+**Tech:** Python · NLP · Machine Learning · Chatbot Systems  
+
+**Problem Statement:**  
+Teams spent excessive time searching internal documentation across disconnected sources.  
+
+**Solution:**  
+Developed an AI-powered chatbot enabling natural-language, context-aware document retrieval.  
+
+**Impact:**  
+⏱️ Reduced time spent searching for internal documentation and improved knowledge accessibility.  
 
 ---
 
